@@ -1,4 +1,4 @@
-# Counter
+# Black Friday
 Black Friday is a program that displays clothing items with their characteristics using constructors and the Fetch method to retrieve the API in the url provided within the EPICODE project track.
 
 ## Table of contents

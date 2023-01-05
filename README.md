@@ -24,8 +24,8 @@ Black Friday is a program that displays clothing items with their characteristic
 
 ### Links
 
-- Repository URL: [https://github.com/lucavergallo/Counter](https://github.com/lucavergallo/Counter)
-- Live Site URL: [https://counter-luca-vergallo.netlify.app/](https://counter-luca-vergallo.netlify.app/)
+- Repository URL: [https://github.com/lucavergallo/Black-Friday](https://github.com/lucavergallo/Black-Friday)
+- Live Site URL: [https://black-friday-luca-vergallo.netlify.app/](https://black-friday-luca-vergallo.netlify.app/)
 
 ## My process
 
